@@ -7,7 +7,7 @@ other source
 *
 * Name: Ismail Mohamed Student ID: 107859217 Date: 10/09/22
 *
-* Your app’s URL (from Cyclic) : https://zany-gold-dalmatian-hat.cyclic.app/
+* Your app’s URL (from Cyclic) : 
 *
 *************************************************************************/ 
 
